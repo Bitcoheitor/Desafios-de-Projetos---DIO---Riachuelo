@@ -1,4 +1,4 @@
-# Desafio-1
+# Desafio-1-Promoção Relâmpago
 ###  Estrutura de Dados
 ## Desafio
 Na loja de departamentos "SuperCompras", o gerente decidiu fazer uma promoção especial. Dependendo do valor da compra, os clientes receberão diferentes descontos. Sua missão é implementar um programa que determine o desconto aplicado com base no valor gasto!
